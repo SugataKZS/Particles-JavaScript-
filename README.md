@@ -8,8 +8,12 @@
 ```html
  <script src="particles.js"></script>
 ```
-Если ранее вы сгенерировали конфигурационный файл с моего сайта
- [sugatakzs.github.io](http://sugatakzs.github.io/ ) , то укажите его.
+Подключить конфигурационный файл
 ```html
  <script src="config.js"></script>
 ```
+**Демо-версия**
+
+[sugatakzs.github.io](http://sugatakzs.github.io/ )
+
+![Демо-версия](demo.gif "Демо-версия")
